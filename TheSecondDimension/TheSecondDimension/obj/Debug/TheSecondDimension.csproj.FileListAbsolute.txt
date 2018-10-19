@@ -1,0 +1,6 @@
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe.config
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.pdb
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.exe
+C:\Users\jowiesny\source\repos\Assessment2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.pdb

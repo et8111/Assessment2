@@ -1,0 +1,6 @@
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.exe.config
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.exe
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.pdb
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.exe
+C:\Users\jowiesny\source\repos\Assessment2\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.pdb
